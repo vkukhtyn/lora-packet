@@ -1,5 +1,6 @@
 README.html
 .idea
+.vscode
 node_modules
 demo*.js
 npm-debug.log
